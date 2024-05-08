@@ -33,10 +33,12 @@
 
 
 ## Technologies Used
+- jupyter notebook - version 7.0.8
 - pandas - version 2.2.1
 - numpy - version 1.26.4
 - matplotlib - version 3.8.0
 - seaborn - version 0.13.2
+- python - version 3.11.8
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
